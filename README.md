@@ -2,6 +2,7 @@
 
 ## Description
 The **Code Plagiarism Checker** is a FastAPI-based system designed to detect code plagiarism using vector embeddings and OpenAI's GPT-4 model. It compares the provided code snippet with a repository of existing code and determines whether plagiarism exists based on semantic similarity.
+This is a simple system I tried to build to test my new knowledge on ML engineering.
 
 ### Key Features:
 - **Code Embedding**: Converts code into vector embeddings using a pre-trained model from Hugging Face.
