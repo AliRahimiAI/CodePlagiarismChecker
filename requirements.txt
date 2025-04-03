@@ -1,0 +1,9 @@
+gitpython
+fastapi
+sentence-transformers
+chromadb
+openai
+python-dotenv
+pandas
+uvicorn
+docker
